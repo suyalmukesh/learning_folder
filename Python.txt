@@ -1,0 +1,6 @@
+Dictionary:
+https://realpython.com/python-dicts/
+
+Sets:
+https://realpython.com/python-sets/
+
